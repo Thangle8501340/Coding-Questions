@@ -8,7 +8,7 @@ In order to solve this prolbem, we have to use a hash map in order to keep track
 ![image](https://github.com/user-attachments/assets/36b5a6b0-4a25-48e9-a2cd-0337c0d51e12)
 
 Complexity:
-- Splace Complexity: O(N) -> Using a hashmap requires O(N) space
+- Space Complexity: O(N) -> Using a hashmap requires O(N) space
 - Time Complexity: O(N) -> Iterating throug the whole lists means that we require O(N) time
 
 ![image](https://github.com/user-attachments/assets/add6018e-ef4d-4cc8-a4e8-0b21472a534b)
