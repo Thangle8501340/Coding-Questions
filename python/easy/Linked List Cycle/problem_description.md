@@ -27,6 +27,7 @@ Explanation: There is a cycle in the linked list, where the tail connects to the
 
 ### Example 3:
 ![image](https://github.com/user-attachments/assets/e9aaa8ff-9637-432f-b6fd-4f066dd0443f)
+
 Input: head = [1], pos = -1
 Output: false
 Explanation: There is no cycle in the linked list.
